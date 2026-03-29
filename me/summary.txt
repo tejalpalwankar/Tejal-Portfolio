@@ -1,0 +1,415 @@
+# TEJAL PALWANKAR — CAREER KNOWLEDGE BASE (RAG DOCUMENT)
+# Optimized for semantic retrieval and question-aligned chunking
+
+---
+
+# Chunk 1 — Identity & Personal Background
+
+**Who is Tejal Palwankar?**
+
+Tejal Palwankar is an AI Engineer and Data Professional based in Portland, OR (Hillsboro area). She grew up in Mumbai, India and moved to the United States for her Master's degree at Syracuse University. She currently works at the Oregon Medical Board as an AI Engineer and AI Product Analyst.
+
+She works at the intersection of agentic AI systems, data engineering, and business analysis — with a rare ability to bridge technical implementation and business stakeholder communication.
+
+Outside of work, Tejal loves traveling especially in nature, enjoys good Indian food, and loves movies and series to unwind.
+
+Contact:
+- Email: tejal30palwankar@gmail.com
+- LinkedIn: linkedin.com/in/tejal-palwankar
+- GitHub: github.com/tejalpalwankar
+- Location: Portland, OR (Hillsboro)
+
+---
+
+# Chunk 2 — Professional Summary
+
+**What does Tejal specialize in?**
+
+Tejal is an AI Engineer specializing in agentic AI systems and production-grade RAG pipelines, with proven experience reducing operational latency and improving knowledge retrieval in regulated environments including healthcare and AML compliance.
+
+She is skilled in designing multi-agent workflows, LLM evaluation frameworks, and cost-aware prompt optimization using OpenAI APIs, CrewAI, LangGraph, and MCP. She has a track record of shipping AI systems that drive measurable productivity gains across compliance, research, and GTM workflows.
+
+What makes Tejal unique:
+- Rare combination of technical AI engineering skills AND business domain expertise in AML compliance, healthcare, and logistics
+- Built and shipped production RAG systems that real users depend on daily at Oregon Medical Board
+- 7 agentic AI projects built from scratch — not tutorials, real systems with tool use, memory, and orchestration
+- Can translate between non-technical stakeholders and engineering teams — bridges the gap most engineers cannot
+- Experience across the full data stack: ingestion → transformation → modeling → visualization → AI layer
+
+---
+
+# Chunk 3 — Educational Background
+
+**What did Tejal study? What is her educational background?**
+
+- Master of Science in Information Systems — Syracuse University, iSchool (May 2025)
+- Bachelor of Engineering in Computer Engineering — University of Mumbai (May 2022)
+
+During her graduate studies she focused on data analytics, information systems design, business intelligence, applied data science, and analytics-driven decision making. Her education built a strong foundation in both technical implementation and business-oriented analytics.
+
+Certifications:
+- AWS Cloud Practitioner
+- Google AI Essentials Specialization
+- Excel Associate
+- Operational Risk
+- Financial Crime Compliance
+
+---
+
+# Chunk 4 — Current Role: Oregon Medical Board
+
+**What does Tejal currently do? What is her current job?**
+
+Tejal works at the Oregon Medical Board as an AI Engineer / AI Product Analyst since October 2025 in Portland, OR.
+
+Key achievements:
+- Designed and deployed an internal RAG-based AI knowledge assistant using Python and OpenAI APIs that processes regulatory policy documents into vector embeddings with chunked retrieval, enabling staff to query licensing guidelines and complaint procedures in natural language — reducing average policy lookup time from 15–20 minutes to under 2 minutes.
+- Automated generation of technical documentation artifacts (SDS, BRD, SRS) using LLM-powered prompt workflows, reducing documentation turnaround from 3–5 days to under 4 hours.
+- Built an evaluation process to assess RAG output quality reviewing retrieval relevance, hallucination risk, and answer accuracy against source documents, iterating on chunking strategy and prompt templates.
+- Accelerated requirements validation by developing AI-assisted proof-of-concept prototypes early in the discovery phase, enabling stakeholders to pressure-test module behavior before engineering investment.
+- Standardized 40+ data intents into a governed taxonomy ensuring consistent, trusted data for downstream systems.
+- Ensured data readiness through structured UAT validation, identifying 15+ data-handling and logic gaps prior to release across Legal, IT, and Operations teams.
+
+---
+
+# Chunk 5 — Syracuse University iSchool: AI Research Analyst
+
+**What research did Tejal do at Syracuse University?**
+
+Tejal worked as an AI Research Analyst at Syracuse University iSchool from July 2025 to October 2025 in Syracuse, NY.
+
+Key achievements:
+- Designed a structured LLM evaluation framework benchmarking GPT-4, Claude, and Gemini across accuracy, hallucination rate, and reasoning quality using BLEU/ROUGE scoring and human evaluation rubrics.
+- Produced evidence-based adoption recommendations across 5 research task categories.
+- Engineered reusable prompt templates and chain-of-thought evaluation harnesses to stress-test LLM consistency and domain reasoning quality, reducing manual evaluation time by 50%.
+- Enabled systematic offline assessment across NLP and data analysis workflows.
+
+---
+
+# Chunk 6 — Hapag-Lloyd: Business Analyst Intern
+
+**What did Tejal do at Hapag-Lloyd?**
+
+Tejal worked as a Business Analyst (Inland) at Hapag-Lloyd from June 2024 to August 2024 in Atlanta, GA.
+
+Key achievements:
+- Built a global tender dashboard eliminating 80% of manual reporting effort and improving operational visibility for Sales and Inland teams across key markets.
+- Developed Power BI and Qlik dashboards for KPI tracking, RTB reviews, and root-cause analysis.
+- Applied Power Query for data cleaning and profiling across cross-functional logistics datasets.
+- Executed SQL data validation on high-volume pricing datasets, identifying inconsistencies between US and international teams.
+- Collaborated with cross-regional analytics teams to standardize metric definitions and reporting formats.
+- Designed BI-driven onboarding content reducing sales ramp-up time by 60%.
+- Partnered with leadership to analyze control charts and operational bottlenecks driving continuous improvement initiatives.
+
+---
+
+# Chunk 7 — iConsult Collaborative: AI & Data Engineer
+
+**What did Tejal do at iConsult Collaborative?**
+
+Tejal worked as an AI & Data Engineer at iConsult Collaborative from September 2023 to May 2024 in Syracuse, NY.
+
+Key achievements:
+- Built automated Python/SQL ETL pipelines to ingest, clean, and centralize ecological survey data from 6+ countries into a unified data warehouse, reducing manual preparation effort by 40% and cutting weekly reporting cycle time from 2 days to 4 hours.
+- Designed a text preprocessing and keyword extraction pipeline using Python (NLTK/spaCy) to automate tagging and categorization of unstructured field survey documents, enabling structured querying across 10,000+ ecological records.
+- Applied A/B testing and hypothesis-driven experimentation using Python and Google Analytics behavioral data to evaluate content layout variants, improving session engagement by 25%.
+- Partnered with cross-functional stakeholders to define product KPIs and ensure data consistency.
+
+---
+
+# Chunk 8 — Kiya.ai: ML-Integrated Business Analyst
+
+**What did Tejal do at Kiya.ai? What is her compliance experience?**
+
+Tejal worked as an ML-Integrated Business Analyst in AML & Financial Crime Compliance at Kiya.ai from June 2022 to July 2023 in Mumbai, India.
+
+Key achievements:
+- Collaborated with data science teams on the design, feature definition, and validation of ML-based transaction risk scoring models (XGBoost, LightGBM, rule-ensemble methods), contributing to a 35% improvement in high-risk entity detection and 30% reduction in false positives across 5+ APAC bank deployments.
+- Defined feature engineering schemas for AML monitoring models specifying behavioral signals including transaction velocity, geographic anomalies, and counterparty network graph patterns.
+- Led UAT cycles validating ML model outputs against regulatory thresholds across 5+ international bank deployments in APAC.
+- Facilitated GAP analysis workshops reducing deployment timelines by 20%.
+- Delivered post-launch training to 50+ compliance users, cutting onboarding time by 50%.
+- Reduced sanctions-screening false positives by 40% by analyzing World-Check alerts and tuning name-matching thresholds.
+- Identified 100+ previously missed high-risk alerts through recurring SQL-based validation checks.
+- Configured AML risk-scoring logic using customer profiles and transaction behavior to prioritize high-risk alerts.
+- Translated AML regulatory requirements into detection logic and test scenarios, reducing rework.
+
+---
+
+# Chunk 9 — AI Agent Projects
+
+**What AI agent projects has Tejal built? What agentic systems has she created?**
+
+Tejal has built 7 production-ready agentic AI systems:
+
+1. SignalForge — Multi-Agent Market Intelligence Engine
+   Tech: GPT-4o, Firecrawl, Streamlit, Agno
+   Description: A coordinated AI system that converts fragmented public web data into structured, executive-ready product launch intelligence. Deploys specialized agents that independently analyze positioning, sentiment, and performance — then synthesize findings into actionable strategy outputs.
+
+2. Deep Research Agent — End-to-End Research Automation
+   Tech: OpenAI Agents SDK, Gradio, AsyncIO, SendGrid, Pydantic
+   Description: Multi-agent AI system that transforms a simple query into a structured in-depth research report. Clarifies intent, plans research strategy, performs parallel web searches, synthesizes insights, and optionally sends results via email. Includes rate limiting for production-like behavior.
+
+3. Engineering Team Agent — Full-Stack Stock Trading Platform
+   Tech: CrewAI, Gradio, Python, Pydantic
+   Description: Multi-agent system simulating a full engineering team. An Engineering Lead, Backend Engineer, Frontend Engineer, and Test Engineer collaborate to build a complete stock trading platform with Gradio UI.
+
+4. Financial Researcher Agent — AI-Powered Financial Analysis
+   Tech: CrewAI, Python, OpenAI
+   Description: AI-powered financial research agent that gathers, analyzes, and synthesizes financial data to support investment decisions and market analysis workflows.
+
+5. Stock Picker Agent — Intelligent Stock Selection
+   Tech: CrewAI, Python, OpenAI
+   Description: Intelligent stock selection agent that evaluates market signals, financial metrics, and trends to identify high-potential investment opportunities autonomously.
+
+6. Debate Agent — Multi-Agent Structured Debate
+   Tech: CrewAI, Python, OpenAI
+   Description: Multi-agent debate system where specialized agents argue opposing sides of a topic, evaluate arguments, and produce a structured summary of the debate outcome.
+
+7. Coder Agent — AI Coding Assistant
+   Tech: CrewAI, Python, OpenAI
+   Description: AI coding assistant agent that understands requirements, writes clean code, and iterates based on feedback — automating software development tasks end to end.
+
+---
+
+# Chunk 10 — General Data & Analytics Projects
+
+**What data engineering and analytics projects has Tejal worked on?**
+
+1. MergerMetrics Lakehouse Pipeline
+   Tech: Databricks, AWS S3, PySpark, Delta Lake, SQL, Tableau
+   Description: Simulated a real-world acquisition scenario — parent company acquires a startup with messy data. Built Bronze → Silver → Gold medallion architecture in Databricks, engineered surrogate keys using SHA hashing to handle inconsistent identifiers, aligned data granularity across both companies, and delivered a unified Tableau dashboard as a single source of truth.
+
+2. Fraud Detection on Financial Transactions
+   Tech: GCP, BigQuery, XGBoost, Isolation Forest
+   Description: Engineered 20+ transaction risk features in BigQuery including amount velocity and geographic outliers. Deployed supervised (XGBoost) and unsupervised (Isolation Forest) models achieving 90% recall on test data.
+
+3. Diabetic Retinopathy Detection
+   Tech: Python, Machine Learning, Computer Vision
+   Description: ML classification pipeline to detect diabetic retinopathy from retinal images, identifying disease severity to support early diagnosis in healthcare settings.
+
+4. Smart Manufacturing AI — Neurala Integration
+   Tech: Neurala VIA, Salesforce CRM
+   Description: Proposed integration of Neurala AI Vision Inspection Automation into Floyd Furniture's manufacturing pipeline. Designed phased implementation roadmap to reduce defects, automate QA, and integrate with Salesforce CRM.
+
+5. Snowflake Strategic Planning for Innovation
+   Tech: Snowflake, Strategic Frameworks
+   Description: Applied Sense → Seize → Transform innovation framework to propose a 12-month roadmap for Snowflake across real-time analytics, AI/ML platform expansion, and a decentralized data marketplace.
+
+6. Airbnb New Jersey Data Analysis
+   Tech: Python, Pandas, Tableau
+   Description: Cleaned and standardized 20,000+ record listing dataset. Built interactive Tableau dashboards surfacing demand patterns and performance segmentation by neighborhood and property type.
+
+7. Automated File Processing — Docker & AWS S3
+   Tech: Python, Docker, AWS S3
+   Description: Built automated pipeline to process files and display results on the web using Docker containers and AWS S3, demonstrating cloud-native file orchestration.
+
+---
+
+# Chunk 11 — Technical Skills
+
+**What are Tejal's technical skills? What technologies does she know?**
+
+AI & Machine Learning:
+- LLMs: GPT-4o, Claude, Gemini
+- RAG Architectures, Vector Embeddings, Semantic Search
+- Prompt Engineering, Chain-of-Thought Reasoning
+- LLM Evaluation (hallucination rate, retrieval precision/recall)
+- Pydantic Structured Outputs
+- XGBoost, LightGBM, Scikit-learn
+- NLP, Text Classification, Anomaly Detection
+
+Agentic Frameworks:
+- CrewAI, LangGraph, AutoGen, OpenAI Agents SDK
+- MCP (Model Context Protocol)
+- Multi-Agent Orchestration, Dynamic Task Generation
+
+Programming & Data:
+- Python (pandas, NumPy, scikit-learn, NLTK, spaCy)
+- SQL (Oracle, MS SQL, PL/SQL)
+- R, JavaScript, HTML, CSS
+
+Cloud & MLOps:
+- Google Cloud Platform (BigQuery, Vertex AI)
+- AWS, Azure, Databricks, Snowflake
+- Streamlit, Gradio, Docker, Postman, UNIX/Linux
+
+Visualization & BI:
+- Power BI, Tableau, Qlik (QlikView, Qlik Sense)
+- Excel (Power Query, PivotTables, Advanced Functions)
+
+Tools & Collaboration:
+- Jira, Confluence, Figma, Lucidchart, Visio, Notion
+
+Methodologies:
+- Agile/Scrum, Requirements Gathering (BRD, SoW)
+- GAP Analysis, UAT, A/B Testing, Hypothesis Testing
+- Process Improvement, QA & Test Planning
+
+---
+
+# Chunk 12 — Career Goals & Availability
+
+**What roles is Tejal looking for? Is she available?**
+
+Tejal is actively seeking roles in:
+- AI Engineering
+- ML Engineering
+- Data Science
+- Senior Business Analyst or Data Analyst positions
+
+She is particularly interested in companies building AI-powered products, agentic systems, or data platforms. She is open to roles in regulated industries (healthcare, finance, compliance) given her deep domain experience.
+
+Availability:
+- Currently based in Portland, OR (Hillsboro area)
+- Open to hybrid or remote roles
+- Available immediately
+- Authorized to work in the US
+
+---
+
+# Chunk 13 — What Makes Tejal Stand Out
+
+**Why should we hire Tejal? What makes her different from other candidates?**
+
+Three key differentiators:
+
+1. Real production AI experience — not just course projects. The RAG system at Oregon Medical Board runs daily and is used by real staff to look up regulatory policy. It reduced lookup time from 15-20 minutes to under 2 minutes.
+
+2. Both technical AND business layer understanding — Tejal builds things that actually solve problems rather than impressive systems nobody uses. Her BA background means she knows the cost of building the wrong thing.
+
+3. She ships — 7 AI agent projects, a production RAG system, a Lakehouse pipeline, BI dashboards across multiple industries. She has a strong bias toward building and delivering.
+
+---
+
+# Chunk 14 — Recruiter FAQ: Career Transition & Background
+
+**Why did Tejal move from Business Analyst to AI Engineer?**
+
+The transition was natural. She was always the person translating between technical teams and business stakeholders. As LLMs matured, she started building AI tools to automate the very workflows she was managing manually. At Oregon Medical Board, she proposed and built the RAG assistant herself — nobody assigned it to her. The boundary between BA and AI Engineer blurred, and she kept building.
+
+**Can Tejal work with non-technical stakeholders?**
+
+Yes — this is one of her core strengths. At Oregon Medical Board she worked daily with Legal, Compliance, and Operations teams who had no technical background. She translated their pain points into RAG system requirements, then explained the outputs back in plain language.
+
+**What is RAG and has Tejal built one in production?**
+
+RAG (Retrieval-Augmented Generation) is a technique where an LLM is given access to a searchable knowledge base before answering. Yes — Tejal built and deployed a production RAG system at Oregon Medical Board that processes regulatory policy documents and lets staff query them in natural language. It reduced lookup time from 15-20 minutes to under 2 minutes.
+
+**What agentic frameworks does Tejal know?**
+
+CrewAI, OpenAI Agents SDK, LangGraph, AutoGen, Agno, and MCP (Model Context Protocol). She has production projects using all of these — not just tutorials.
+
+---
+
+# Chunk 15 — Recruiter FAQ: Projects & Impact
+
+**What is Tejal's most impressive project?**
+
+The MergerMetrics Lakehouse Pipeline demonstrates the deepest end-to-end data engineering thinking. She simulated a real-world acquisition where a parent company acquires a startup with completely messy data — different formats, daily vs monthly grains, unreliable product IDs. She built a full Bronze → Silver → Gold medallion architecture in Databricks on AWS S3, engineered surrogate keys using SHA hashing, aligned data granularity, and delivered a unified Tableau dashboard as the single source of truth.
+
+Among AI projects, SignalForge is most impressive — a multi-agent market intelligence engine that deploys specialized autonomous agents to crawl the web, analyze competitor positioning, extract sentiment signals, and synthesize executive-ready GTM reports using GPT-4o, Firecrawl, and Agno. It runs end-to-end without human intervention.
+
+**Tell me about a time Tejal had measurable impact.**
+
+At Oregon Medical Board, staff were spending 15-20 minutes per policy lookup manually searching through regulatory documents. Tejal designed and deployed a RAG-based AI assistant — lookup time dropped to under 2 minutes. On the documentation side, she automated BRD and SRS generation using LLM workflows — turnaround went from 3-5 days to under 4 hours. Real, measurable, production impact.
+
+**Has Tejal ever failed and what did she learn?**
+
+Early in her agentic AI work she underestimated how brittle multi-agent pipelines can be without structured output schemas. Agents passing free-form text to each other caused unpredictable failures. She learned to enforce Pydantic structured outputs at every agent handoff — now it is the first thing she designs before writing any agent logic.
+
+---
+
+# Chunk 16 — Recruiter FAQ: Skills & Work Style
+
+**How does Tejal stay current with AI developments?**
+
+She builds things. Reading papers is not enough — she implements. When OpenAI released the Agents SDK she built the Deep Research Agent within weeks. When MCP was announced she integrated 6 MCP servers into her autonomous trading floor project. She also benchmarks models actively — at iSchool she ran structured evaluations of GPT-4, Claude, and Gemini, which gives her a grounded non-hype view of what models actually do well.
+
+**Can Tejal work independently?**
+
+Yes. At Oregon Medical Board the RAG assistant was her initiative — she identified the problem, proposed the solution, built it, and deployed it. Nobody assigned it to her. Same with SignalForge and the Deep Research Agent — all self-directed outside work hours.
+
+**How does Tejal handle ambiguous requirements?**
+
+She leans into it. Her BA background trained her to ask the right questions to turn ambiguity into structure. She runs discovery sessions, maps current vs future state, writes user stories, and builds proof-of-concept prototypes early so stakeholders can react to something concrete. At Oregon Medical Board she used AI-assisted prototypes to validate requirements before any engineering investment.
+
+**Is Tejal more of a data person or an AI person?**
+
+Both — and that is intentional. Most AI engineers do not understand data pipelines deeply. Most data engineers do not understand LLMs. Tejal sits at the intersection — she can build the pipeline that feeds the model AND the agentic system that uses the output.
+
+**What kind of team culture does Tejal thrive in?**
+
+Teams that ship things, value ownership, and have low bureaucracy around ideas. She does her best work when she can go from identifying a problem to prototyping a solution in the same week. She also values psychological safety — teams where people share half-baked ideas without fear tend to produce the most innovative work.
+
+---
+
+# Chunk 17 — Recruiter FAQ: Behavioral & Future Goals
+
+**What are Tejal's weaknesses?**
+
+She sometimes goes too deep into technical exploration before validating whether the direction is right with stakeholders. She has gotten better at this — she now timeboxes technical spikes and checks in earlier. Her BA background helps here because she knows the cost of building the wrong thing.
+
+**Where does Tejal see herself in 3 years?**
+
+Leading AI product or engineering initiatives — either as a senior AI engineer owning a product area end-to-end, or in a technical lead role setting architecture direction and mentoring others. She wants to be known for shipping reliable, high-impact AI systems in production — not demos or prototypes, but things people actually use and depend on.
+
+**How do colleagues describe Tejal?**
+
+Curious and continuously learning, proactively problem-solving, adaptable, strong collaborator, and a structured analytical thinker. These traits allow her to contribute effectively to multidisciplinary teams.
+
+**What motivates Tejal professionally?**
+
+She enjoys solving complex operational and analytical problems — particularly roles where she can analyze systems, identify inefficiencies, design improved workflows, and implement scalable solutions. She is motivated by impact — systems that real people use to do their jobs better.
+
+---
+
+# Chunk 18 — Problem Solving & Leadership
+
+**How does Tejal approach complex problems?**
+
+She follows a structured approach:
+1. Clearly define the problem
+2. Break it into smaller components
+3. Analyze available data
+4. Collaborate with relevant experts
+5. Implement a solution
+6. Validate results through testing
+
+This ensures problems are solved systematically and sustainably.
+
+**Has Tejal demonstrated leadership?**
+
+Yes. She mentored junior analysts by creating SQL snippet libraries, internal documentation, and structured onboarding sessions that helped new team members ramp up faster. At Oregon Medical Board she leads cross-functional UAT cycles with Legal, IT, and Investigations stakeholders. She also independently initiated and built the RAG assistant — a project that is now used organization-wide.
+
+---
+
+# Chunk 19 — Compliance & Regulated Industry Experience
+
+**What is Tejal's experience in regulated industries?**
+
+Tejal has deep experience in two regulated industries:
+
+Financial Crime Compliance (Kiya.ai):
+- Implemented AML and financial crime compliance platforms for 5+ international banks across APAC
+- Configured transaction monitoring systems, sanctions screening, and alert rule logic
+- Validated ML model outputs against regulatory thresholds
+- Reduced false positives by 30-40% through threshold tuning and rule optimization
+- Delivered training to 50+ compliance users
+
+Healthcare Regulatory Systems (Oregon Medical Board):
+- Works on healthcare regulatory case management with strict data handling and audit requirements
+- Designs systems compliant with state regulations and due-process standards
+- Manages confidentiality controls and audit trails for regulatory enforcement operations
+
+She understands how to build AI systems that meet regulatory constraints — a rare combination of technical and compliance expertise.
+
+---
+
+# Chunk 20 — Short Summary for Quick Reference
+
+Tejal Palwankar is an AI Engineer based in Portland, OR. She specializes in agentic AI systems and production-grade RAG pipelines. 
+She has 3+ years of experience across AI engineering, business analysis, data engineering, and compliance technology. 
+She has built 7 production-ready multi-agent systems, deployed a RAG assistant used daily at the Oregon Medical Board, and has deep domain expertise in AML compliance, healthcare, and logistics. 
+Her strongest differentiator is combining technical AI engineering skills with real business domain knowledge and stakeholder communication. 
+he is currently open to AI Engineering, ML Engineering, Data Science, and Senior Analyst roles. She can be reached at tejal30palwankar@gmail.com
