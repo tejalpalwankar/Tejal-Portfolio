@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unescaped-entities */
 "use client";
 
 import { useState, useRef, useEffect } from "react";
@@ -137,7 +138,7 @@ export const Chatbot = () => {
                                         Tejal Palwankar&apos;s AI Assistant                                    </p>
                                     <p className="text-green-400 text-xs flex items-center gap-1">
                                         <span className="w-1.5 h-1.5 bg-green-400 rounded-full inline-block animate-pulse" />
-                                        Online — Ask me anything!
+                                        Ask me anything!
                                     </p>
                                 </div>
                             </div>
