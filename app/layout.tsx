@@ -1,6 +1,7 @@
 import type { Metadata, Viewport } from "next";
 import { Inter } from "next/font/google";
 import type { PropsWithChildren } from "react";
+import { Analytics } from "@vercel/analytics/next";
 
 import { Chatbot } from "@/components/main/chatbot";
 import { Footer } from "@/components/main/footer";
@@ -33,6 +34,7 @@ export default function RootLayout({ children }: PropsWithChildren) {
         {children}
         <Footer />
         <Chatbot />
+        <Analytics />
       </body>
     </html>
   );
