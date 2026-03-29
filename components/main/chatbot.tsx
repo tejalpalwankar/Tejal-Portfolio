@@ -134,8 +134,7 @@ export const Chatbot = () => {
                                 </div>
                                 <div>
                                     <p className="text-white font-semibold text-sm">
-                                        Tejal's AI Assistant
-                                    </p>
+                                        Tejal Palwankar&apos;s AI Assistant                                    </p>
                                     <p className="text-green-400 text-xs flex items-center gap-1">
                                         <span className="w-1.5 h-1.5 bg-green-400 rounded-full inline-block animate-pulse" />
                                         Online — Ask me anything!
